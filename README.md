@@ -4,7 +4,7 @@
 #### 😄 Pronouns: Her/She
 #### 👯 I’m looking for Software Development opportunities!
 
-<p align="center" width = "150" height = "150">
+<p align="center" width = "500" height = "500">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
