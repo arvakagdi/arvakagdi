@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### 🔭 I’m currently working on web development projects such as a personal Journal and To-do list.
-#### 📫 How to reach me: [Email] (arvamkagdi@gmail.com) 
+#### 📫 How to reach me: [Email](arvamkagdi@gmail.com) 
 #### 😄 Pronouns: Her/She
 #### 👯 I’m looking for Software Development opportunities!
 
