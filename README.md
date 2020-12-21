@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on web development projects such as a personal Journal and To-do list.
+#### 🔭 I’m currently working on web development projects such as a Secrets Website and Pong game in Python.
 #### 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/arvakagdi/) 
 #### 😄 Pronouns: Her/She
 #### 👯 I’m looking for Software Development opportunities!
